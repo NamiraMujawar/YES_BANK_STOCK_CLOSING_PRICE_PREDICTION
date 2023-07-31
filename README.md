@@ -15,6 +15,7 @@ Predicting stock prices is a challenging task and is usually done by analysts, t
 Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month. The main objective is to predict the stock’s closing price of the month.
 
 #**Dataset Information**
+---
 
 We have 185 rows and 4 columns in our dataset with no null values. Here our dependent variable will be Close, and independent variables are - Open, High and Low.
 
@@ -31,7 +32,8 @@ We have 185 rows and 4 columns in our dataset with no null values. Here our depe
 ![Screenshot (98)](https://github.com/NamiraMujawar/YES_BANK_STOCK_CLOSING_PRICE_PREDICTION/assets/120715329/55428b32-d75b-4482-b88a-0146b08346db)
 
 
-**Conclusion**
+#**Conclusion**
+---
 
 * The target variable shows high dependence on input variables, indicating a strong relationship between them.
 
