@@ -1,4 +1,5 @@
 # YES_BANK_STOCK_CLOSING_PRICE_PREDICTION
 
-![image](https://github.com/NamiraMujawar/YES_BANK_STOCK_CLOSING_PRICE_PREDICTION/assets/120715329/013da31b-52bc-491c-aa51-48c71bc3a5bf)
+![image](https://github.com/NamiraMujawar/YES_BANK_STOCK_CLOSING_PRICE_PREDICTION/assets/120715329/54fdeb4f-6275-490a-ade1-a2ce1ceebd7b)
+
 
