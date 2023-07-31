@@ -8,8 +8,25 @@ YES BANK is a well-known Indian private sector bank, and its stock is traded on 
 
 Predicting stock prices is a challenging task and is usually done by analysts, traders, and researchers who use various methods such as technical analysis, fundamental analysis, machine learning algorithms, and other financial models to make their predictions. However, it's important to note that stock price prediction is inherently uncertain and can be affected by various factors, including market sentiment, economic conditions, company performance, and unexpected events.
 
-It is essential to exercise caution and skepticism when dealing with stock predictions, as they are not guaranteed to be accurate and can carry inherent risks. Investors should conduct thorough research and seek advice from financial professionals before making any investment decisions based on stock price predictions.
+**It is essential to exercise caution and skepticism when dealing with stock predictions, as they are not guaranteed to be accurate and can carry inherent risks. Investors should conduct thorough research and seek advice from financial professionals before making any investment decisions based on stock price predictions.*
 
+#**Problem Statement**
+---
+Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month. The main objective is to predict the stock’s closing price of the month.
+
+#**Dataset Information**
+
+We have 185 rows and 4 columns in our dataset with no null values. Here our dependent variable will be Close, and independent variables are - Open, High and Low.
+
+* **Date:** It denotes the month and year of the for a particular price.
+
+* **Open:** Open means the price at which a stock started trading that month.
+
+* **High:** refers to the maximum price that month.
+
+* **Low:** refers to the minimum price that month.
+
+* **Close:** refers to the final trading price for that month, which we have to predict using regression
 
 
 
