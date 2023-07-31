@@ -31,7 +31,19 @@ We have 185 rows and 4 columns in our dataset with no null values. Here our depe
 ![Screenshot (98)](https://github.com/NamiraMujawar/YES_BANK_STOCK_CLOSING_PRICE_PREDICTION/assets/120715329/55428b32-d75b-4482-b88a-0146b08346db)
 
 
+**Conclusion**
 
+* The target variable shows high dependence on input variables, indicating a strong relationship between them.
+
+* Linear Regression achieved the best results with the lowest MAE, MSE, RMSE, and MAPE scores, suggesting accurate predictions with low errors.
+
+* Ridge Regression reduced complexity and addressed multicollinearity, impacting evaluation metrics.
+
+* Lasso Regression performed feature selection but was inferior to Ridge Regression, indicating all features' importance for accurate predictions.
+
+* All models achieved over 90% accuracy, but other error metrics and data balance should be considered for comprehensive evaluation.
+
+* KNN and XGBoost showed similar predictive capabilities, requiring consideration of interpretability, efficiency, and implementation ease for model selection.
 
 
 
