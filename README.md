@@ -1,6 +1,7 @@
 # YES_BANK_STOCK_CLOSING_PRICE_PREDICTION
 
-![imgonline-com-ua-resize-IjZMc6w8sr8IrU](https://github.com/NamiraMujawar/YES_BANK_STOCK_CLOSING_PRICE_PREDICTION/assets/120715329/bf47bba7-e4b9-4a2c-906d-b7bc3fa08122)
+![imgonline-com-ua-resize-IjZMc6w8sr8IrU (1)](https://github.com/NamiraMujawar/YES_BANK_STOCK_CLOSING_PRICE_PREDICTION/assets/120715329/e60d5179-0bb3-4c16-a828-395b2ad6b43d)
+
 
 The term **"YES BANK STOCK CLOSING PRICE PREDICTION"** refers to the process of using various methods and techniques to forecast or estimate the closing price of the stock of the company called YES BANK.
 
