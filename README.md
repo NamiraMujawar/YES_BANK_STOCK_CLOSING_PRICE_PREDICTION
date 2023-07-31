@@ -28,6 +28,9 @@ We have 185 rows and 4 columns in our dataset with no null values. Here our depe
 
 * **Close:** refers to the final trading price for that month, which we have to predict using regression
 
+![Screenshot (98)](https://github.com/NamiraMujawar/YES_BANK_STOCK_CLOSING_PRICE_PREDICTION/assets/120715329/55428b32-d75b-4482-b88a-0146b08346db)
+
+
 
 
 
